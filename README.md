@@ -120,6 +120,7 @@ A **Use Case Diagram** is a type of UML (Unified Modeling Language) diagram that
 - **System**: Handles authentication, notifications, and payment processing.
 
 ### 📌 Use Case Diagram
+![Use Case Diagram]https://github.com/Hali1439/requirement-analysis/blob/b98983225d6428006031a2a86ebc8fe9e7f21ee7/alx-booking-uc..png
 
 
 
