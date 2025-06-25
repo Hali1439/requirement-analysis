@@ -119,8 +119,36 @@ A **Use Case Diagram** is a type of UML (Unified Modeling Language) diagram that
 - **Hotel Manager**: Creates and manages hotel listings.
 - **System**: Handles authentication, notifications, and payment processing.
 
-### 📌 Use Case Diagram
-![Use Case Diagram](https://github.com/Hali1439/requirement-analysis/blob/b98983225d6428006031a2a86ebc8fe9e7f21ee7/alx-booking-uc..png)
+![Use Case Diagram](https://github.com/Hali1439/requirement-analysis/blob/d0dc7b7c1a1f1d3d73508a86233879424ca00c93/alx-booking-uc.png)
+
+## ✅ Acceptance Criteria
+
+### What are Acceptance Criteria?
+
+Acceptance Criteria are a set of clearly defined conditions that a product or feature must meet to be accepted by the user, client, or other stakeholders. They define the boundaries of a user story or feature and help ensure that the development team and stakeholders have a shared understanding of the requirements.
+
+### Why Acceptance Criteria Are Important
+
+- Ensure clarity and shared understanding between developers and stakeholders  
+- Provide a basis for writing test cases and validating functionality  
+- Help prevent scope creep and vague feature requests  
+- Serve as a checklist to determine when a feature is “done”  
+
+---
+
+### 📌 Example: Acceptance Criteria for the *Checkout Feature* (Booking Management System)
+
+**User Story:**  
+*As a user, I want to be able to complete the booking process by checking out, so that my reservation is confirmed.*
+
+**Acceptance Criteria:**
+
+1. ✅ User must be able to review booking details before final confirmation.  
+2. ✅ The checkout page must display the total cost, including taxes and discounts.  
+3. ✅ The user must be able to choose a payment method (credit card, PayPal, etc.).  
+4. ✅ A confirmation email must be sent after successful payment.  
+5. ✅ The system must display a success message upon booking confirmation.  
+6. ✅ The booking should be saved
 
 
 
